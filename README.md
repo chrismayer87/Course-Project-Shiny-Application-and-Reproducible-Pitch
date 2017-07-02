@@ -1,4 +1,4 @@
 # Course-Project-Shiny-Application-and-Reproducible-Pitch
 
-# This repository contains all needed R code and an R Markdown file for Shiny. This application uses user submitted value to resticts observations to see relationship between carat size and price.
+# This repository contains all developed R code, including an investigation component for evaluating the model and the server and UI files. This application uses user submitted values to restrict observations to see relationship between carat size and price.
 
